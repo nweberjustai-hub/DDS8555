@@ -8,12 +8,13 @@ Code for DDS-8555: Predictive Analysis (Nathan Weber).
 | 3: Subset selection, lasso, and PCR | DDS8555_ASGN3Part1of1_SubsetRegularizationPCR_NWeber.ipynb |
 | 4: Non-linear models | DDS8555_ASGN4Part1of1_NonLinearModels_NWeber.ipynb |
 | 5: Classification models | DDS8555_ASGN5Part1of1_Classification_NWeber.ipynb |
+| 6: Tree models | DDS8555_ASGN6Part1of1_TreeModels_NWeber.ipynb |
 
 ## Data
 
-- Assignments 2 to 4: Kaggle Playground Series, Season 4, Episode 4: Regression with an Abalone Dataset
+- Assignments 2 to 4 (and Assignment 6, Question 12): Kaggle Playground Series, Season 4, Episode 4: Regression with an Abalone Dataset
   (https://www.kaggle.com/competitions/playground-series-s4e4).
-- Assignment 5: Kaggle Playground Series, Season 4, Episode 2: Multi-Class Prediction of Obesity Risk
+- Assignments 5 and 6: Kaggle Playground Series, Season 4, Episode 2: Multi-Class Prediction of Obesity Risk
   (https://www.kaggle.com/competitions/playground-series-s4e2).
 
 The data files are not included here; download them from the competition pages.
