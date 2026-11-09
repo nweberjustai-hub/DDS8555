@@ -9,6 +9,7 @@ Code for DDS-8555: Predictive Analysis (Nathan Weber).
 | 4: Non-linear models | DDS8555_ASGN4Part1of1_NonLinearModels_NWeber.ipynb |
 | 5: Classification models | DDS8555_ASGN5Part1of1_Classification_NWeber.ipynb |
 | 6: Tree models | DDS8555_ASGN6Part1of1_TreeModels_NWeber.ipynb |
+| 7: Unsupervised learning (PCA, k-means, hierarchical clustering) | DDS8555_ASGN7Part1of1_Unsupervised_NWeber.ipynb |
 
 ## Data
 
@@ -16,6 +17,8 @@ Code for DDS-8555: Predictive Analysis (Nathan Weber).
   (https://www.kaggle.com/competitions/playground-series-s4e4).
 - Assignments 5 and 6: Kaggle Playground Series, Season 4, Episode 2: Multi-Class Prediction of Obesity Risk
   (https://www.kaggle.com/competitions/playground-series-s4e2).
+- Assignment 7: Kaggle Wine Dataset for Clustering (https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering),
+  the UCI Wine data without the cultivar label; textbook exercises use USArrests.
 
 The data files are not included here; download them from the competition pages.
 
